@@ -1,0 +1,5 @@
+instaloader==4.8.4
+networkx==2.6.3
+numpy==1.22.2
+pyvis==0.1.9
+tqdm==4.62.3
