@@ -1,4 +1,7 @@
-Парсер профилей инстаграм.
+## Парсер профилей инстаграм.
+
+![alt text](https://raw.githubusercontent.com/aorews/instagram_parser/main/Screenshot%20from%202022-02-22%2019-59-57.png)
+![alt text](https://raw.githubusercontent.com/aorews/instagram_parser/main/Screenshot%20from%202022-02-22%2020-00-20.png)
 
 Строит граф связей между подписчиками и подписками доступного профиля, кластеризует полученный граф с помощью алгоритма Гирван — Ньюмена. 
 
