@@ -15,3 +15,5 @@ python3 parse.py --credentials YOUR_USERNAME,YOUR_PASSWORD --target TARGET_USERN
 После загрузки получить визуальное представление графа с помощью
 
 python3 display.py --path PATH --clusters NUM_CLUSTERS
+
+Готовый пример есть в файле example.html
